@@ -1,2 +1,2 @@
 # POWER-BI_BINDAL-STORE-SALES-ANALYSIS
-Create Intrective Dashboard to Track And Analyse Sales Data For a Store
+Created Intrective Dashboard to Track And Analyse Sales Data For a Bindal Store
